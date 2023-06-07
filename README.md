@@ -1,6 +1,7 @@
 # Car Price Prediction Application
 
-This application is a machine learning model used to predict car prices based on several parameters, such as the year of manufacture, kilometers driven, number of owners, and other features. 
+This application is a machine learning model used to predict car prices based on several parameters, such as the year of manufacture, kilometers driven, number of owners, and other features.
+See a [demo](https://car-model-ywtk7siozq-wn.a.run.app)
 
 ## Project Structure
 
